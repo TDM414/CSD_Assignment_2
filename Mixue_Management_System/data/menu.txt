@@ -1,0 +1,30 @@
+1, Kem Ốc Quế, 10000, None, MIXUE Ice-cream
+2, Super sundae dâu tây, 25000, U, Mango Super Sundae
+3, Super sundae socola, 25000, U, Chocolate Super Sundae
+4, Super sundae mâm xôi, 25000, U, Raspberry Super Sundae
+5, Sữa kem lắc đào, 25000, U, peach Milk Shake
+6, Sữa kem lắc dâu tây, 25000, U, Straưberry Milk Shake
+7, Spuer sundae lô hội, 25000, U, Aloe Super Sundae
+8, Sữa kem lắm mâm sôi, 25000, U, Raspberry Milk Shake
+9, Sữa thạch dâu tây, 22000, M, Strawberry Jelly Milk
+10, Trà mâm sôi, 22000, L, Raspberry Tea
+11, Dương chi cam lộ, 30000, M, Creamy Mango Boba
+12, Trà chanh lô hội, 17000, L, Aloe Lemon Tea
+13, Hồng trà mật ong, 15000, L, Original Earl Grey Tea
+14, Hồng Trà Tranh, 15000, L, Lemon Earl Grey Tea
+15, Trà đào bigsize, 22000, L, Peach bigsize Tea
+16, Trà đào tứ kỳ xuân, 20000, M, Four seasons Peach tea
+17, Trà ô long bốn mùa, 25000, M, Original Oolong Tea
+18, Trà sữa bá vương, 30000, L, King Milk Tea
+19, Trà sữa nướng, 25000, M, Roasted Pearl Milk Tea
+20, Trà sữa 3Q, 25000, M, Milk Tea With 3 Toppings
+21, Trà sữa trân châu, 25000, M, Pearl Milk Tea
+22, Trà sữa thạch dừa, 25000, M, Coconut Jelly Milk Tea
+23, Trà sữa 2J, 25000, M, Milk Tea With 2 Toppping
+24, Trà kèm mâm sôi, 25000, M, Ice-cream Raspberry Tea
+25, Hồng Trà Kem, 25000, M, Ice-cream Black Tea
+26, Trà kem ô long, 25000, M, Ice-cream Oolong
+27, Trân Châu, 3000, None, None
+28, Thạch dừa, 3000, None, None
+29, Lô hội, 3000, None, None
+30, Thạch đào, 3000, None, None

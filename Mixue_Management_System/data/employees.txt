@@ -1,0 +1,6 @@
+1, Dai Lam, Manager, 75000, Male, 123 Main St, 0394894565
+2, Jane Smith, Cashier, 35000, Female, 456 Oak St, 0994894569
+3, Alice John, Ice Cream Maker, 30000, Female, 789 Pine St, 0394894341
+4, Bob Brown , Delivery, 28000, Male , 321 Maple St, 0395844563
+5, Carol White, Cleaner, 25000, Female, 654 Elm St, 0399894902
+6, Duy Manh  , Ice Cream Maker, 35000, Male , 456 Oak St, 0390894349

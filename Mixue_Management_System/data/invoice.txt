@@ -1,0 +1,9 @@
+1, John Smith, 0394894580, 2023/07/10 14:30:00, 1, 1, Cash
+2, Emily Davis, 0394894581, 2023/07/11 15:00:00, 2, 24, Credit Card
+3, Michael Johnson, 0394894582, 2023/07/12 16:45:00, 3, 25, Cash
+4, Jessica Wilson, 0394894583, 2023/07/13 13:20:00, 4, 30, Debit Card
+5, Sarah Miller, 0394894585, 2023/07/15 17:00:00, 6, 9, Cash
+6, James Taylor, 0394894586, 2023/07/16 19:30:00, 7, 3, Debit Card
+7, Karen Harris, 0394894587, 2023/07/17 20:15:00, 8, 7, Credit Card
+8, Robert Clark, 0394894588, 2023/07/18 14:45:00, 9, 8, Cash
+9, Linda Lewis, 0394894589, 2023/07/19 21:00:00, 10, 10, Debit Card
